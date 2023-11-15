@@ -1,6 +1,6 @@
 # Task Management Application with Flutter and Back4App 
 
- # GITHub : 
+** # GITHub : https://github.com/ParPils/FlutterTaskApp.git
 # Steps
 ## 1.Sign Up or Sign In on Back4app
 ## 2.Once signed in click “Build a new app” and give a name to your app
@@ -26,7 +26,7 @@
 ## Integrate with email, wearables
 
 ## **References:**
-
+**
 - https://www.back4app.com/docs/flutter/parse-sdk/data-objects/flutter-crud
 
 - https://www.liquidweb.com/kb/how-to-install-and-configure-flutter-sdk-windows-10/
